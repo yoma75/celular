@@ -1,0 +1,6 @@
+# celular
+Realizada en con Bootstrap 4:
+-Animaciones con: ScrollReveal.
+-Smooth scrolling: permite el desplazamiento suave de cada item del navbar de toda la pagina.
+-Google fonts: tipo de letra.(Titillium)
+
